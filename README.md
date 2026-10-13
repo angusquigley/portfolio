@@ -1,4 +1,4 @@
-# angusq.com
+# portfolio
 
 A small static personal website, served from the repository root with GitHub Pages.
 
